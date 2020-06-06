@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "_id": "ff23",
+      "title": "Taza Trunks",
+      "price": 1599.99,
+      "quantity": 20,
+      "description": "Taza con disenio de Trunks de Dragon ball Z",
+      "category": "Accesorios",
+      "image1": "https://firebasestorage.googleapis.com/v0/b/la-agencia-b724a.appspot.com/o/96552539_639958909890319_627183173607882752_o.jpg?alt=media&token=e5e1e163-4b9b-4f37-a907-55c3cc7629fd",
+      "image2": "https://firebasestorage.googleapis.com/v0/b/la-agencia-b724a.appspot.com/o/96552539_639958909890319_627183173607882752_o.jpg?alt=media&token=e5e1e163-4b9b-4f37-a907-55c3cc7629fd",
+      "image3": "https://firebasestorage.googleapis.com/v0/b/la-agencia-b724a.appspot.com/o/96552539_639958909890319_627183173607882752_o.jpg?alt=media&token=e5e1e163-4b9b-4f37-a907-55c3cc7629fd"
+    },
+    {
+      "_id": "ffr2",
+      "title": "Mascara craneo",
+      "price": 199.99,
+      "quantity": 40 ,
+      "description": "Mascara con disenio de craneo",
+      "category": "Bioseguridad",
+      "image1": "https://firebasestorage.googleapis.com/v0/b/la-agencia-b724a.appspot.com/o/100878178_650556188830591_1003581441570766848_o.jpg?alt=media&token=ac6cf79c-5afb-4cf6-8339-6fad54bf256c",
+      "image2": "https://firebasestorage.googleapis.com/v0/b/la-agencia-b724a.appspot.com/o/100878178_650556188830591_1003581441570766848_o.jpg?alt=media&token=ac6cf79c-5afb-4cf6-8339-6fad54bf256c",
+      "image3": "https://firebasestorage.googleapis.com/v0/b/la-agencia-b724a.appspot.com/o/100878178_650556188830591_1003581441570766848_o.jpg?alt=media&token=ac6cf79c-5afb-4cf6-8339-6fad54bf256c"
+    }
+  ]
+}
