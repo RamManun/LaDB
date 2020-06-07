@@ -1,16 +1,29 @@
 {
-  "name": "exampleapi",
+  "name": "LaDB",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "json-server --watch database.json",
-    "remote": "json-server http://jsonplaceholder.typicode.com/db"
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamManun/LaDB.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamManun/LaDB/issues"
+  },
+  "homepage": "https://github.com/RamManun/LaDB#readme",
   "dependencies": {
-    "json-server": "^0.16.1"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.18"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
